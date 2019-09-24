@@ -1,0 +1,19 @@
+body {
+  background-color: #49b36b;
+  font-family: 'Noto Sans', sans-serif;
+}
+footer{
+  background-color: #444743
+}
+h3 {
+  background-color: #00ffe5; color: white;
+}
+header {
+  background-color: #00ffe5;
+}
+h4 {
+  background-color: #2eb394; color: white;
+}
+.navbar {
+  background-color: #00ffe5; color: white;
+}
